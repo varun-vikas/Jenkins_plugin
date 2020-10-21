@@ -1,0 +1,4 @@
+<?jelly escape-by-default='true'?>
+<div>
+    This plugin's main goal is to provide File Operations as Build Step.
+</div>
